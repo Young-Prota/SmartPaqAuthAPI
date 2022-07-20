@@ -8,7 +8,7 @@ using WebApi.Helpers;
 
 #nullable disable
 
-namespace AuthUserRoleAPI.Migrations
+namespace SmartPaqAuthAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
     partial class DataContextModelSnapshot : ModelSnapshot

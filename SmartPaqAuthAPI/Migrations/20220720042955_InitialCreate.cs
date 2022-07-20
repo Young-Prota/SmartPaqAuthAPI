@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace AuthUserRoleAPI.Migrations
+namespace SmartPaqAuthAPI.Migrations
 {
     public partial class InitialCreate : Migration
     {

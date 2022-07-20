@@ -9,10 +9,10 @@ using WebApi.Helpers;
 
 #nullable disable
 
-namespace AuthUserRoleAPI.Migrations
+namespace SmartPaqAuthAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220719170142_InitialCreate")]
+    [Migration("20220720042955_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
